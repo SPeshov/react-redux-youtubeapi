@@ -19711,7 +19711,7 @@
 	    }
 
 	    var videoId = video.id.videoId;
-	    var url = "http://www.youtube.com/embed/" + videoId;
+	    var url = "https://www.youtube.com/embed/" + videoId;
 
 	    return _react2.default.createElement(
 	        "div",
